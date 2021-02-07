@@ -1,1 +1,1 @@
-# Adobe-Illustrator
+# Adobe Illustrator projects
